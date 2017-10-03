@@ -42,10 +42,16 @@ body{
 }
 
 .btnExtras{
-    margin-top: -53px;
-    margin-left: 730px;
+    margin-top: -51px;
+    margin-left: 714px;
     position: absolute;
 }
+.btnExtras1{
+    margin-top: -159px;
+    margin-left: 740px;
+    position: absolute;
+}
+
 
 .cont{
     position: absolute;
@@ -57,8 +63,8 @@ body{
 
 .cls{
     position: absolute;
-    right: -6px;
-    top: -11px;
+    right: 18px;  
+    top: 16px;
     cursor: pointer;
 }
 
