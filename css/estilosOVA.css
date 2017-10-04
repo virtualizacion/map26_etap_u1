@@ -32,13 +32,13 @@ body{
     position: relative;
     bottom: -45px;
     right: 5px;
-    top: 75px;
+    top: 109px;
 }
 .btnTop{
     position: relative;
     float: left;
     cursor: pointer;
-    margin: 0 82px;
+    margin: -33px 4px  82px;
 }
 .creditos{
     background: #1d3f74;
